@@ -6119,11 +6119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\FlowControlHomework\\FlowControlHomework\\FlowControlHomework\\FlowControlHomework.csproj",
+      "projectUniqueName": "C:\\Source\\FlowControlHomework2\\FlowControlHomework\\FlowControlHomework.csproj",
       "projectName": "FlowControlHomework",
-      "projectPath": "C:\\Source\\FlowControlHomework\\FlowControlHomework\\FlowControlHomework\\FlowControlHomework.csproj",
+      "projectPath": "C:\\Source\\FlowControlHomework2\\FlowControlHomework\\FlowControlHomework.csproj",
       "packagesPath": "C:\\Users\\erich\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\FlowControlHomework\\FlowControlHomework\\FlowControlHomework\\obj\\",
+      "outputPath": "C:\\Source\\FlowControlHomework2\\FlowControlHomework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erich\\AppData\\Roaming\\NuGet\\NuGet.Config",
